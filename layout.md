@@ -9,6 +9,7 @@ figures/CD-Plot
 figures/UC-Plot
 figures/DataProfile
 figures/DataMean
+figures/DataSD
 u5otgpun26.md
 5lp6879ed3.md
 ip3v62qgq2o.html
