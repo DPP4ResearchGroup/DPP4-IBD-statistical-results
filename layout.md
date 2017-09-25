@@ -7,5 +7,6 @@ figures/MatrixPlot
 tjdvbo3jiko.html
 figures/CD-Plot
 figures/UC-Plot
+figures/DataProfile
 5lp6879ed3.md
 ip3v62qgq2o.html
